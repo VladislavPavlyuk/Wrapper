@@ -18,6 +18,7 @@ public class StringTest {
         byte[] byteArray = {80, 114, 105, 109, 101, 114, 32, 115, 116, 114, 111, 107, 105};
         String byteArrayString = new String(byteArray);
 
+
         // 5) С помощью StringBuilder
         StringBuilder stringBuilder = new StringBuilder();
         stringBuilder.append("Пример строки");

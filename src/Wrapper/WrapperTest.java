@@ -23,6 +23,7 @@ public class WrapperTest {
         //Float f3 = new Float(19.99F); @Depricated since version 9
         Float f4 = Float.parseFloat("19.99");
 
+
         //Double
         Double d1 = 19.99D;
         Double d2 = Double.valueOf(19.99);
